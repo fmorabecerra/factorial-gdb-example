@@ -1,0 +1,75 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALL_FALSE	cs50.h	113;"	d
+ARG	cs50.h	72;"	d
+BOOL	cs50.h	63;"	d
+CONCAT	cs50.h	58;"	d
+CONCAT5	cs50.h	112;"	d
+FALSE_SENTINEL_0000	cs50.h	114;"	d
+GetChar	cs50.c	/^char GetChar(void)$/;"	f
+GetDouble	cs50.c	/^double GetDouble(void)$/;"	f
+GetFloat	cs50.c	/^float GetFloat(void)$/;"	f
+GetInt	cs50.c	/^int GetInt(void)$/;"	f
+GetLongLong	cs50.c	/^long long GetLongLong(void)$/;"	f
+GetString	cs50.c	/^string GetString(void)$/;"	f
+HAS_COMMA	cs50.h	90;"	d
+IF_0	cs50.h	68;"	d
+IF_0_ELSE	cs50.h	70;"	d
+IF_1	cs50.h	67;"	d
+IF_1_ELSE	cs50.h	69;"	d
+IF_ELSE	cs50.h	65;"	d
+IF_ELSE_	cs50.h	66;"	d
+INITIALIZER	cs50.c	/^INITIALIZER(setup)$/;"	f
+INITIALIZER	cs50.c	664;"	d	file:
+INITIALIZER	cs50.c	666;"	d	file:
+INITIALIZER	cs50.c	669;"	d	file:
+INITIALIZER_	cs50.c	658;"	d	file:
+ISEMPTY	cs50.h	107;"	d
+IS_ANYTHING	cs50.h	105;"	d
+IS_CALLABLE	cs50.h	104;"	d
+IS_PAREN	cs50.h	103;"	d
+NOT	cs50.h	62;"	d
+NOT_	cs50.h	60;"	d
+NOT_SENTINEL_0	cs50.h	61;"	d
+SECOND	cs50.h	59;"	d
+TRIGGER	cs50.h	101;"	d
+WARN	cs50.h	117;"	d
+WARN	cs50.h	120;"	d
+WARN	cs50.h	121;"	d
+WARN_MSG	cs50.h	116;"	d
+_CS50_H	cs50.h	40;"	d
+_GNU_SOURCE	cs50.c	39;"	d	file:
+__extension__	cs50.h	128;"	d
+allocations	cs50.c	/^static size_t allocations = 0;$/;"	v	file:
+eprintf	cs50.c	/^void eprintf(const string file, int line, const string format, ...)$/;"	f
+eprintf	cs50.c	80;"	d	file:
+eprintf	cs50.h	148;"	d
+get_char	cs50.c	/^char get_char(const string format, ...)$/;"	f
+get_char	cs50.c	61;"	d	file:
+get_char	cs50.h	157;"	d
+get_double	cs50.c	/^double get_double(const string format, ...)$/;"	f
+get_double	cs50.c	62;"	d	file:
+get_double	cs50.h	167;"	d
+get_float	cs50.c	/^float get_float(const string format, ...)$/;"	f
+get_float	cs50.c	63;"	d	file:
+get_float	cs50.h	177;"	d
+get_int	cs50.c	/^int get_int(const string format, ...)$/;"	f
+get_int	cs50.c	64;"	d	file:
+get_int	cs50.h	187;"	d
+get_long	cs50.c	/^long get_long(const string format, ...)$/;"	f
+get_long	cs50.c	65;"	d	file:
+get_long	cs50.h	208;"	d
+get_long_long	cs50.c	/^long long get_long_long(const string format, ...)$/;"	f
+get_long_long	cs50.c	66;"	d	file:
+get_long_long	cs50.h	199;"	d
+get_string	cs50.c	/^string get_string(va_list *args, const string format, ...)$/;"	f
+get_string	cs50.c	67;"	d	file:
+get_string	cs50.h	220;"	d
+main	factorial.c	/^int main(void)$/;"	f
+string	cs50.h	/^typedef char *string;$/;"	t
+strings	cs50.c	/^static string *strings = NULL;$/;"	v	file:
+teardown	cs50.c	/^static void teardown(void)$/;"	f	file:
